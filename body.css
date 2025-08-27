@@ -1,0 +1,9 @@
+body{
+    background-image: url(back.jpg);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+}
+h1 {
+  font-family: "Times New Roman", Times, serif;
+}
+
